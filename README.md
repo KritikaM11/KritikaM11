@@ -20,6 +20,6 @@ I am a 2nd-year Computer Science student at LNCT Bhopal. I'm passionate about te
 ### How to Reach Me  
 - 📂 View all my projects: [GitHub](https://github.com/KritikaM11)  
 - 📧 Email: [kmittal1126@gmail.com](mailto:kmittal1126@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/kriti](https://www.linkedin.com/in/kriti)  
+- 🔗 LinkedIn: [linkedin.com/in/kriti](www.linkedin.com/in/kritika-mittal-232570293)  
 
 ⭐ *Feel free to connect and collaborate!* 🚀
