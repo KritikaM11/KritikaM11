@@ -1,7 +1,8 @@
-#Hi👋, I'm Kritika Mittal 
+<h1 align="center">Hi👋, I'm Kritika Mittal</h1>
 
-### 🚀 About Me  
+<p align="center"> 
 I am a **2nd year Computer Science** at LNCT Bhopal. A passionate student about technology, problem-solving, and continuous learning. I love building great websites that support modern standards and platforms.
+</p>
 
 ### 🔥 Skills & Interests  
 - 💻 Programming: C++, Python, JavaScript  
@@ -20,5 +21,6 @@ I am a **2nd year Computer Science** at LNCT Bhopal. A passionate student about 
 - view all my projects on: https://github.com/KritikaM11
 - 📧 Email: kmittal1126@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/kritika-mittal-232570293/
+
  
 
