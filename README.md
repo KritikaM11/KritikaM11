@@ -1,16 +1,24 @@
-## Hi there 👋
+#Hi👋, I'm Kritika Mittal 
 
-<!--
-**KritikaM11/KritikaM11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I am a **2nd year Computer Science** at LNCT Bhopal. A passionate student about technology, problem-solving, and continuous learning. I love building great websites that support modern standards and platforms.
 
-Here are some ideas to get you started:
+### 🔥 Skills & Interests  
+- 💻 Programming: C++, Python, JavaScript  
+- 🌐 Web Development: HTML, CSS, React.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning  
+- 🏗️ Backend Development 
+- 📝 Data Structure and Algorithms
+
+### 💡 Looking to Collaborate on  
+- Open-source projects  
+- Web and AI-based projects  
+- Hackathons & coding competitions  
+
+### 📫 How to Reach Me  
+- view all my projects on: https://github.com/KritikaM11
+- 📧 Email: kmittal1126@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/kritika-mittal-232570293/
+ 
+
