@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Kritika Mittal</h1>
 
 <p align="center"> 
-I am a **2nd year Computer Science** at LNCT Bhopal. A passionate student about technology, problem-solving, and continuous learning. I love building great websites that support modern standards and platforms.
+I am a 2nd year Computer Science at LNCT Bhopal. I'm passionate about technologies and problem solving. I love building great websites that support modern standards and platforms.
 </p>
 
 ### 🔥 Skills & Interests  
